@@ -1,0 +1,3 @@
+C:/Users/nisha/OneDrive/Desktop/System-Programming/C_Language/multiThreadedHelloWorld/cmake-build-debug/CMakeFiles/multiThreadedHelloWorld.dir
+C:/Users/nisha/OneDrive/Desktop/System-Programming/C_Language/multiThreadedHelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nisha/OneDrive/Desktop/System-Programming/C_Language/multiThreadedHelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

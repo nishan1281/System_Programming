@@ -1,0 +1,11 @@
+# ninja log v5
+1	302	7263533126119939	CMakeFiles/multiThreadedHelloWorld.dir/main.c.obj	3fd45745ece07541
+303	666	7263533129391196	multiThreadedHelloWorld.exe	c7f615cd8778b857
+6	158	7265268444689499	CMakeFiles/multiThreadedHelloWorld.dir/main.c.obj	3fd45745ece07541
+158	720	7265268449083048	multiThreadedHelloWorld.exe	c7f615cd8778b857
+4	140	7265269940776154	CMakeFiles/multiThreadedHelloWorld.dir/main.c.obj	3fd45745ece07541
+141	272	7265269942100954	multiThreadedHelloWorld.exe	c7f615cd8778b857
+4	132	7265270248726548	CMakeFiles/multiThreadedHelloWorld.dir/main.c.obj	3fd45745ece07541
+132	296	7265270250343751	multiThreadedHelloWorld.exe	c7f615cd8778b857
+4	118	7265280725654039	CMakeFiles/multiThreadedHelloWorld.dir/main.c.obj	3fd45745ece07541
+119	270	7265280727132967	multiThreadedHelloWorld.exe	c7f615cd8778b857

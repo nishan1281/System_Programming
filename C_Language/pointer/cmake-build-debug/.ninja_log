@@ -1,0 +1,7 @@
+# ninja log v5
+5	151	7278163392066950	CMakeFiles/pointer.dir/main.c.obj	343c5afd0f74f742
+152	274	7278163393303210	pointer.exe	640b6f4498ef3d41
+5	111	7265179891465524	CMakeFiles/pointer.dir/sum.c.obj	a1e75b1d026e9da2
+1	265	7280676166060890	build.ninja	5fb0013d5ff1dc0c
+5	286	7280677010417880	CMakeFiles/pointer.dir/main.c.obj	343c5afd0f74f742
+11	288	7280677010437825	CMakeFiles/pointer.dir/voidStar.c.obj	7f0b9bff8275654a

@@ -1,0 +1,2 @@
+Ariful Alam Nishan hello world
+Greeting by fprintf:  hello world

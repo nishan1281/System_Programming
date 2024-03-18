@@ -1,0 +1,3 @@
+C:/Users/nisha/OneDrive/Desktop/C_plus_plus-_learning/HelloWorld/cmake-build-debug/CMakeFiles/C_plus_plus__learning.dir
+C:/Users/nisha/OneDrive/Desktop/C_plus_plus-_learning/HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nisha/OneDrive/Desktop/C_plus_plus-_learning/HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

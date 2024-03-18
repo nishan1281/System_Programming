@@ -1,0 +1,15 @@
+# ninja log v5
+1	954	7226203716377961	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+957	1227	7226203719050818	conversion.exe	e8a5db48a0e6e6e8
+4	895	7226203977891339	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+896	1030	7226203979216114	conversion.exe	e8a5db48a0e6e6e8
+7	780	7226204324482349	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+780	959	7226204326187789	conversion.exe	e8a5db48a0e6e6e8
+5	674	7226204629569415	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+675	811	7226204630895872	conversion.exe	e8a5db48a0e6e6e8
+5	611	7226204748547884	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+612	755	7226204749964097	conversion.exe	e8a5db48a0e6e6e8
+5	689	7226231305687300	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+690	833	7226231307129536	conversion.exe	e8a5db48a0e6e6e8
+7	685	7226231427760027	CMakeFiles/conversion.dir/main.cpp.obj	1d687e724e770e2e
+686	810	7226231429006688	conversion.exe	e8a5db48a0e6e6e8
