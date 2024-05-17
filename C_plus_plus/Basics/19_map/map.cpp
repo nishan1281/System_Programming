@@ -29,20 +29,20 @@ int main (int argc, char const *argv[]) {
     }
 
     //ternary operator = similar as above if else
-//    std::cout << (person.find("leg") == person.end()? "item not found": "item found");
+    //std::cout << (person.find("leg") == person.end()? "item not found": "item found");
 
     //looping by "for"
-    for ( std::map<std::string, int>::iterator i = person.begin(); i!=person.end(); i++) {
+    for (auto & i : person) {
 
-        std::cout << i->first << " :  " <<i->second <<std::endl;
+        std::cout << i.first << " :  " <<i.second <<std::endl;
     }
 
     //other functions
 
-    person.erase("legs");
-    person.clear();
-    person.size();
-    bool xx =  person.empty();
+//    person.erase("legs");
+//    person.clear();
+//    person.size();
+//    bool xx =  person.empty();
 
 
     return 0;

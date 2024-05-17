@@ -13,7 +13,7 @@ private:
     double length;
 
 public:
-    Square (double _length);
+    explicit Square (double _length);
 
     double calculateArea() const override;
 
