@@ -1,0 +1,3 @@
+D:/Mix download/MVVM/cmake-build-debug/CMakeFiles/MVVM.dir
+D:/Mix download/MVVM/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mix download/MVVM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

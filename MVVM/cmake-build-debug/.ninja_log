@@ -1,0 +1,6 @@
+# ninja log v5
+5	268	7502098508442370	CMakeFiles/MVVM.dir/src/model/Person.cpp.obj	23e93493947331bf
+41	256	7502098693307491	CMakeFiles/MVVM.dir/src/viewmodel/PersonViewModel.cpp.obj	91377264cc8ee43c
+33	293	7502098693687579	CMakeFiles/MVVM.dir/main.cpp.obj	79a2c5e9b590dfcd
+45	296	7502098693717478	CMakeFiles/MVVM.dir/src/view/ConsoleView.cpp.obj	16fc81d1a5db581b
+296	425	7502098694985448	MVVM.exe	2c51d1bb8cb3c25d

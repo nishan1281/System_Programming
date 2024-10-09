@@ -3,7 +3,10 @@
 //
 #include "iostream"
 
-void sayHello(std::string name= "sifan");
+void sayHello(std::string name = "sifan")
+{
+    std::cout << "my Name is " << name << std::endl;
+};
 // Declare here as c++ read from top to bottom. Default value if no arg found
 
 double sum (double num1, double num2){
@@ -12,7 +15,10 @@ double sum (double num1, double num2){
 
 //overloading
 int sum (int num1, int num2){
-    return num1 + num2;
+    num1 = num1+5;
+    num2 = num2+6;
+   int result = num1 + num2;
+    return result;
 }
 
 //overWriting
@@ -34,10 +40,8 @@ int main(int argc,  char const *argv[]){
     int result1 = sum(5, 6);
     std::cout << result1 << std::endl;
 
+    int result2 = sum(10, 12);
+    std::cout << result2 << std::endl;
 
-    return 0;
 }
 
-void sayHello(std::string name){
-    std::cout <<"Hello " << name << std::endl;
-}

@@ -14,14 +14,11 @@ public:
         y = 0;
     }
 
-    Vector(int x, int y){
-        this->x = x;
-        this->y = y;
-    }
+    Vector(int x, int y) : x(x), y(y){};
 
     //operator Overloading. Here, class name then operator and "-,+,*,/" for arithmetic operation.
 
-    Vector operator-(Vector vec1){
+    Vector& operator-(const Vector& vec1) const{
         Vector newVec;
 
         newVec.x = this->x - vec1.x;

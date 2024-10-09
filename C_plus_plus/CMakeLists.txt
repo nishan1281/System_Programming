@@ -61,47 +61,7 @@ add_executable(C_plus_plus
         Basics/35_smartPointer/smartPointer.cpp
         Basics/36__thread/main.cpp
         Basics/36_thread/threads.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaState.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaState.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTBoolean.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTBoolean.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTNil.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTNil.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTNumber.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTNumber.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTString.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTString.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTTable.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTTable.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTUserData.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaTUserData.hpp
-        Basics/37_luna/luacpp/Source/Engine/LuaType.cpp
-        Basics/37_luna/luacpp/Source/Engine/LuaType.hpp
-        Basics/37_luna/luacpp/Source/Example/example_helloworld.cpp
-        Basics/37_luna/luacpp/Source/Example/example_LuaLibrary.cpp
-        Basics/37_luna/luacpp/Source/Example/example_LuaMetaObject.cpp
-        Basics/37_luna/luacpp/Source/Registry/LuaCFunction.cpp
-        Basics/37_luna/luacpp/Source/Registry/LuaCFunction.hpp
-        Basics/37_luna/luacpp/Source/Registry/LuaCodeSnippet.cpp
-        Basics/37_luna/luacpp/Source/Registry/LuaCodeSnippet.hpp
-        Basics/37_luna/luacpp/Source/Registry/LuaCompiler.cpp
-        Basics/37_luna/luacpp/Source/Registry/LuaCompiler.hpp
-        Basics/37_luna/luacpp/Source/Registry/LuaLibrary.cpp
-        Basics/37_luna/luacpp/Source/Registry/LuaLibrary.hpp
-        Basics/37_luna/luacpp/Source/Registry/LuaRegistry.cpp
-        Basics/37_luna/luacpp/Source/Registry/LuaRegistry.hpp
-        Basics/37_luna/luacpp/Source/UnitTest/TestLuaCompiler.cpp
-        Basics/37_luna/luacpp/Source/UnitTest/TestLuaContext.cpp
-        Basics/37_luna/luacpp/Source/UnitTest/TestLuaMetaObject.cpp
-        Basics/37_luna/luacpp/Source/UnitTest/TestLuaTypes.cpp
-        Basics/37_luna/luacpp/Source/Lua.hpp
-        Basics/37_luna/luacpp/Source/LuaContext.cpp
-        Basics/37_luna/luacpp/Source/LuaContext.hpp
-        Basics/37_luna/luacpp/Source/LuaCpp.hpp
-        Basics/37_luna/luacpp/Source/LuaMetaObject.cpp
-        Basics/37_luna/luacpp/Source/LuaMetaObject.hpp
-        Basics/37_luna/luacpp/Source/LuaVersion.cpp
-        Basics/37_luna/luacpp/Source/LuaVersion.hpp
+
         Basics/38_reference/carComparision.cpp
         Basics/38_reference/reference.cpp
         Basics/39_overloadedOperator/overloadedOperator.cpp
@@ -140,4 +100,18 @@ add_executable(C_plus_plus
         DesignPattern/CRTP/CRTP/main.cpp
         "Basics/47_regx/regx1.cpp"
         Basics/47_regx/regx2.cpp
-        Basics/48_best_Practice/std_array_overCarray.cpp)
+        Basics/48_best_Practice/std_array_overCarray.cpp
+        Modern_CPP/1_FilesAndStream/ostreamIterator.cpp
+        Modern_CPP/1_FilesAndStream/flush.cpp
+        Modern_CPP/1_FilesAndStream/istreamIterator.cpp
+        Modern_CPP/1_FilesAndStream/binaryFile.cpp
+        Modern_CPP/1_FilesAndStream/textDataInDat.cpp
+        Modern_CPP/1_FilesAndStream/binaryRecord.cpp
+        Modern_CPP/l_r_values.cpp
+        Modern_CPP/section_5/constructor.cpp
+        Modern_CPP/section_5/deligate.cpp
+        Modern_CPP/section_5/CopyElision.cpp
+        Modern_CPP/section_5/operatorConversion1.cpp
+        CPP_Problems/Hello.cpp
+        Modern_CPP/section_5/defaultDelete.cpp
+)

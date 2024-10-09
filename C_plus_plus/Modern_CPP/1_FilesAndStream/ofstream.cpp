@@ -4,6 +4,7 @@
 #include <iostream>
 #include <fstream>
 
+
 int main() {
     // Open a file for writing. std::ios::app used to append new text
     std::ofstream outputFile("lol.txt", std::ios::app);
