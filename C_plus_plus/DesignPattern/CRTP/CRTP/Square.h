@@ -9,7 +9,7 @@ private:
     double sideLength;
 
 public:
-    Square(double sideLength) : sideLength(sideLength) {}
+    explicit Square(double sideLength) : sideLength(sideLength) {}
 
     double area() const {
         return sideLength * sideLength;

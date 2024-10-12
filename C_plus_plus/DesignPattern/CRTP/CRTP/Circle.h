@@ -13,7 +13,7 @@ private:
     double radius;
 
 public:
-    Circle(double _radius) : radius(_radius) {}
+    explicit Circle(double _radius) : radius(_radius) {}
 
     double area() const{
         return 3.14*radius*radius;

@@ -17,6 +17,7 @@ public:
 
     double calculateArea() const override;
 
+
 };
 
 #endif //C_PLUS_PLUS_SQUARE_H

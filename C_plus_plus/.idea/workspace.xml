@@ -21,61 +21,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="410b3324-646e-4275-91be-78d55c2746b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP_Problems/Hello.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/binaryFile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/binaryRecord.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/file.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/files.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/istreamIterator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/ostreamIterator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/textDataInDat.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/section_5/CopyElision.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/section_5/constructor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/section_5/defaultDelete.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/section_5/deligate.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern_CPP/section_5/operatorConversion1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lol.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/15_function/function.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/15_function/function.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/30_operatorOverloading/operatorOverloading.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/30_operatorOverloading/operatorOverloading.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/37_luna/luacpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/try/try.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/try/try.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Circle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Circle.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modern_CPP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/fileMode1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/fileMode1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/ofstream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Modern_CPP/1_FilesAndStream/ofstream.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e2b834b38fb6fac8f49b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-91119e6aad1604490dc7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a2d0f263c06d0f9d1503.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-04T04-50-27-0318.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-8186ccefa8f27876b629.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-09bb85fbf7b63616c593.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Circle.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Circle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Shape.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Square.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Square.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Shape.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Square.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Square.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,13 +90,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\CRTP" />
+    </key>
+  </component>
   <component name="RunManager" selected="CMake Application.C_plus_plus">
     <configuration name="C_plus_plus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_plus_plus" TARGET_NAME="C_plus_plus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_plus_plus" RUN_TARGET_NAME="C_plus_plus">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -222,6 +176,7 @@
       <workItem from="1727420021192" duration="5782000" />
       <workItem from="1727491357328" duration="11636000" />
       <workItem from="1727543387763" duration="671000" />
+      <workItem from="1728710320402" duration="2804000" />
     </task>
     <servers />
   </component>

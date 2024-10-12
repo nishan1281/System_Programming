@@ -7,9 +7,9 @@
 // Define a base class for geometric shapes
 class Shape {
 public:
+
     //define a virtual function to calculate the area
     virtual double calculateArea() const = 0;
-
     /* explanation
      * virtual: Indicates that the function is virtual, meaning it can be overridden
      * by derived classes.
@@ -17,6 +17,10 @@ public:
      * = 0: Denotes that this is a pure virtual function,
      * and it must be overridden by derived classes.
      */
+
+
+    //the destructor is declared as virtual to ensure proper cleanup of resources when deleting derived objects through a base class pointer.
+    virtual ~Shape() = default;
 };
 
 #endif
