@@ -14,6 +14,7 @@
 		"commands" : 
 		[
 			"add_executable",
+			"target_link_libraries",
 			"include_directories"
 		],
 		"files" : 
@@ -28,49 +29,61 @@
 			{
 				"command" : 0,
 				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 145,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
 				"line" : 14,
 				"parent" : 0
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
-				"line" : 6,
+				"line" : 15,
 				"parent" : 0
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
-				"line" : 7,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
-				"line" : 8,
+				"line" : 17,
 				"parent" : 0
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
-				"line" : 9,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
-				"line" : 10,
+				"line" : 19,
 				"parent" : 0
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
 				"line" : 11,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 12,
 				"parent" : 0
 			}
 		]
@@ -87,32 +100,37 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 2,
+					"backtrace" : 3,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/Basics/24_OOP_Function"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 4,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/Basics/27_composition"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/Basics/31_cMake"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 6,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/Basics/37_luna/luacpp/Source"
 				},
 				{
-					"backtrace" : 6,
+					"backtrace" : 7,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/Basics/37_luna/luacpp/Source/Engine"
 				},
 				{
-					"backtrace" : 7,
+					"backtrace" : 8,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/Basics/37_luna/luacpp/Source/Registry"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 9,
 					"path" : "D:/SoftwareDevelopment/System_Programming/C_plus_plus/CPP_Problems/assignment_classes_and_strings"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "D:/ImportantLibrary/boost_1_86_0/boost_1_86_0"
 				}
 			],
 			"language" : "CXX",
@@ -217,7 +235,18 @@
 				97,
 				98,
 				99,
-				100
+				100,
+				102,
+				103,
+				104,
+				106,
+				107,
+				108,
+				110,
+				112,
+				115,
+				116,
+				117
 			]
 		}
 	],
@@ -233,6 +262,11 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lDesignPattern/CRTP/CRTP/main",
+				"role" : "libraries"
 			},
 			{
 				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
@@ -345,7 +379,18 @@
 				97,
 				98,
 				99,
-				100
+				100,
+				102,
+				103,
+				104,
+				106,
+				107,
+				108,
+				110,
+				112,
+				115,
+				116,
+				117
 			]
 		},
 		{
@@ -360,7 +405,13 @@
 				79,
 				80,
 				82,
-				83
+				83,
+				101,
+				105,
+				109,
+				111,
+				113,
+				114
 			]
 		}
 	],
@@ -837,34 +888,34 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DesignPattern/CRTP/traditional/Shape.h",
+			"path" : "DesignPattern/Solid_Design_Principle/CRTP/traditional/Shape.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DesignPattern/CRTP/traditional/Circle.h",
+			"path" : "DesignPattern/Solid_Design_Principle/CRTP/traditional/Circle.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DesignPattern/CRTP/traditional/main.cpp",
+			"path" : "DesignPattern/Solid_Design_Principle/CRTP/traditional/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DesignPattern/CRTP/CRTP/Shape.h",
+			"path" : "DesignPattern/Solid_Design_Principle/CRTP/CRTP/Shape.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DesignPattern/CRTP/CRTP/Circle.h",
+			"path" : "DesignPattern/Solid_Design_Principle/CRTP/CRTP/Circle.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DesignPattern/CRTP/CRTP/Main.cpp",
+			"path" : "DesignPattern/Solid_Design_Principle/CRTP/CRTP/Main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -961,6 +1012,102 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Modern_CPP/section_5/defaultDelete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/include/Journal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/Journal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/PersistenceManager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/include/PersistenceManager.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/OpenClosedPrinciple/openClosed.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Rectangle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/processUtilityFunction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Rectangle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/processUtilityFunction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Square.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Square.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/Rectangle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/main.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

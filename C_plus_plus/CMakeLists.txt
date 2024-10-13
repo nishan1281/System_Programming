@@ -2,6 +2,13 @@ cmake_minimum_required(VERSION 3.27)
 project(C_plus_plus)
 
 set(CMAKE_CXX_STANDARD 14)
+# Set the path to the Boost installation
+set(BOOST_ROOT "D:/ImportantLibrary/boost_1_86_0/boost_1_86_0")
+# Find Boost libraries
+find_package(Boost REQUIRED)
+
+# Add Boost to include directories
+include_directories(${Boost_INCLUDE_DIRS})
 
 include_directories(Basics/24_OOP_Function)
 include_directories(Basics/27_composition)
@@ -10,6 +17,7 @@ include_directories(Basics/37_luna/luacpp/Source)
 include_directories(Basics/37_luna/luacpp/Source/Engine)
 include_directories(Basics/37_luna/luacpp/Source/Registry)
 include_directories(CPP_Problems/assignment_classes_and_strings)
+
 
 add_executable(C_plus_plus
         Basics/10_error/error.cpp
@@ -92,12 +100,12 @@ add_executable(C_plus_plus
         CPP_Problems/assignment_classes_and_strings/url_test.cc
         Modern_CPP/1_FilesAndStream/ifstream.cpp
         Basics/44_optional/optional.cpp
-        DesignPattern/CRTP/traditional/Shape.h
-        DesignPattern/CRTP/traditional/Circle.h
-        DesignPattern/CRTP/traditional/main.cpp
-        DesignPattern/CRTP/CRTP/Shape.h
-        DesignPattern/CRTP/CRTP/Circle.h
-        DesignPattern/CRTP/CRTP/main.cpp
+        DesignPattern/Solid_Design_Principle/CRTP/traditional/Shape.h
+        DesignPattern/Solid_Design_Principle/CRTP/traditional/Circle.h
+        DesignPattern/Solid_Design_Principle/CRTP/traditional/main.cpp
+        DesignPattern/Solid_Design_Principle/CRTP/CRTP/Shape.h
+        DesignPattern/Solid_Design_Principle/CRTP/CRTP/Circle.h
+        DesignPattern/Solid_Design_Principle/CRTP/CRTP/main.cpp
         "Basics/47_regx/regx1.cpp"
         Basics/47_regx/regx2.cpp
         Basics/48_best_Practice/std_array_overCarray.cpp
@@ -114,4 +122,24 @@ add_executable(C_plus_plus
         Modern_CPP/section_5/operatorConversion1.cpp
         CPP_Problems/Hello.cpp
         Modern_CPP/section_5/defaultDelete.cpp
+        DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/include/Journal.h
+        DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/Journal.cpp
+        DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/main.cpp
+        DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/PersistenceManager.cpp
+        DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/include/PersistenceManager.h
+        DesignPattern/Solid_Design_Principle/OpenClosedPrinciple/openClosed.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Rectangle.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/processUtilityFunction.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Rectangle.h
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/main.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/processUtilityFunction.h
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Square.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Square.h
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.h
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/Rectangle.cpp
+        DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/main.cpp
 )
+
+
+target_link_libraries(C_plus_plus DesignPattern/CRTP/CRTP/main Boost::boost)
