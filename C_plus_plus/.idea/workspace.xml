@@ -21,51 +21,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="410b3324-646e-4275-91be-78d55c2746b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/traditional/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/Rectangle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/Rectangle.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/processUtilityFunction.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/processUtilityFunction.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Rectangle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Rectangle.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Square.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/Square.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/processUtilityFunction.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/processUtilityFunction.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/OpenClosedPrinciple/openClosed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/include/Journal.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/include/PersistenceManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/Journal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/PersistenceManager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/SingleResponsibilityPrinciple/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/CreditCardPayment.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/CreditCardPayment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/IPaymentMethod.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PayPalPayment.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PayPalPayment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/CreditCardPayment.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/CreditCardPayment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PayPalPayment.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PayPalPayment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PaymentProcessor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PaymentProcessor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/interfaceSegregation/interfaceSegregation.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Circle.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/CRTP/Circle.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/CRTP/Main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/CRTP/Shape.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/CRTP/Square.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/CRTP/Square.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Circle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/traditional/Circle.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Circle.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/traditional/Circle.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/traditional/Shape.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Square.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/traditional/Square.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/Square.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/CRTP/traditional/Square.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/CRTP/traditional/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-dc58ec192ec4ce8f30d7.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fbcf19fc6f397ff23184.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5c9285c6d1f98737cb9e.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-052395a99505f3e3292d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-63f80d962a87945e5b1f.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b2b1cd687291cd6bb62b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-28T02-44-36-0766.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-13T05-46-46-0455.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-df697bdaebe6c0ab9fff.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-53784e9aa9223c641372.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b2b1cd687291cd6bb62b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-13T05-46-46-0455.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-53784e9aa9223c641372.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -120,7 +96,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SoftwareDevelopment/System_Programming/C_plus_plus/DesignPattern/Solid_Design_Principle/LiskovSusbstitution",
+    "last_opened_file_path": "D:/SoftwareDevelopment/System_Programming/C_plus_plus/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -132,6 +108,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\DependencyInversion\withoutDIP" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\LiskovSusbstitution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -231,6 +208,8 @@
       <workItem from="1728710320402" duration="15494000" />
       <workItem from="1728757893654" duration="513000" />
       <workItem from="1728787309142" duration="10545000" />
+      <workItem from="1728799829238" duration="1955000" />
+      <workItem from="1728825682710" duration="5303000" />
     </task>
     <servers />
   </component>

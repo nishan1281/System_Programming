@@ -139,6 +139,22 @@ add_executable(C_plus_plus
         DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/RectangleFactory.cpp
         DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/Rectangle.cpp
         DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Liskov/main.cpp
+        DesignPattern/Solid_Design_Principle/interfaceSegregation/interfaceSegregation.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/CreditCardPayment.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/CreditCardPayment.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PayPalPayment.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PayPalPayment.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PaymentProcessor.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PaymentProcessor.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/main.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/IPaymentMethod.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/CreditCardPayment.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/CreditCardPayment.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PayPalPayment.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PayPalPayment.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.h
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/main.cpp
+        DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.cpp
 )
 
 
