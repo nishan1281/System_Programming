@@ -155,6 +155,22 @@ add_executable(C_plus_plus
         DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.h
         DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/main.cpp
         DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.cpp
+        DesignPattern/Builder/html.cpp
+        DesignPattern/Builder/builder.cpp
+        DesignPattern/Builder/recursive/recursive.cpp
+        Basics/49_const/const_1.cpp
+        DesignPattern/Builder/recursive/recursive_smart_pointer.cpp
+        Basics/9_enum/enum2.cpp
+        DesignPattern/Builder/Car/header/Car.h
+        DesignPattern/Builder/Car/header/CarBuilder.h
+        DesignPattern/Builder/Car/header/SedanBuilder.h
+        DesignPattern/Builder/Car/header/SUVBuilder.h
+        DesignPattern/Builder/Car/src/SedanBuilder.cpp
+        DesignPattern/Builder/Car/src/SUVBuilder.cpp
+        DesignPattern/Builder/Car/src/Director.cpp
+        DesignPattern/Builder/Car/header/Director.h
+        DesignPattern/Builder/Car/main.cpp
+        DesignPattern/Builder/Car/src/Car.cpp
 )
 
 

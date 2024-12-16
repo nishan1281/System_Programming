@@ -21,29 +21,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="410b3324-646e-4275-91be-78d55c2746b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/CreditCardPayment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/CreditCardPayment.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/IPaymentMethod.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PayPalPayment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PayPalPayment.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/PaymentProcessor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withDIP/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/CreditCardPayment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/CreditCardPayment.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PayPalPayment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PayPalPayment.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PaymentProcessor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/PaymentProcessor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/interfaceSegregation/interfaceSegregation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/49_const/const_1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/9_enum/enum2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/CarBuilderDiagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/fileStrucure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/Car.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/CarBuilder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/Director.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/SUVBuilder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/SedanBuilder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/Car.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/Director.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/SUVBuilder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/SedanBuilder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/builder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/html.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/recursive/recursive.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/recursive/recursive_smart_pointer.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b2b1cd687291cd6bb62b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-13T05-46-46-0455.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-53784e9aa9223c641372.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fbcf19fc6f397ff23184.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-052395a99505f3e3292d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c1af275f8742d05e044d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-13T15-31-00-0155.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-a8b51ef0842cbe7f356e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e60ebe5105168df5c89c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +77,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_wsadata.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/wingdi.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/winsock.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/winsock2.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../ImportantLibrary/boost_1_86_0/boost_1_86_0/boost/lexical_cast.hpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DesignPattern/Solid_Design_Principle/LiskovSusbstitution/Regular/regular.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignPattern/Builder/Car/headerFile/Car.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignPattern/Builder/recursive/recursive.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Modern_CPP/section_5/operatorConversion1.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
@@ -82,49 +108,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "C/C++ File.ofstream.cpp.executor": "Run",
-    "CMake Application.C_plus_plus.executor": "Run",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SoftwareDevelopment/System_Programming/C_plus_plus/DesignPattern/Solid_Design_Principle/DependencyInversion/withoutDIP",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;C/C++ File.ofstream.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.C_plus_plus.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftwareDevelopment/System_Programming/C_plus_plus&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\DependencyInversion\withoutDIP" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\LiskovSusbstitution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\Car" />
+      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\Car\headerFile" />
+      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\recursive" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\LiskovSusbstitution\Regular" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle" />
-      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\SingleResponsibilityPrinciple\src" />
-      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\SingleResponsibilityPrinciple\include" />
-      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\CRTP" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.C_plus_plus">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C_plus_plus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_plus_plus" TARGET_NAME="C_plus_plus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_plus_plus" RUN_TARGET_NAME="C_plus_plus">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -210,6 +231,37 @@
       <workItem from="1728787309142" duration="10545000" />
       <workItem from="1728799829238" duration="1955000" />
       <workItem from="1728825682710" duration="5303000" />
+      <workItem from="1729349350387" duration="1342000" />
+      <workItem from="1729434668302" duration="5572000" />
+      <workItem from="1729521992107" duration="3593000" />
+      <workItem from="1729850027261" duration="408000" />
+      <workItem from="1730040965372" duration="2710000" />
+      <workItem from="1730131938928" duration="505000" />
+      <workItem from="1730465605812" duration="2063000" />
+      <workItem from="1730520765231" duration="1000" />
+      <workItem from="1730552876539" duration="6501000" />
+      <workItem from="1730647789957" duration="2005000" />
+      <workItem from="1730734395261" duration="3127000" />
+      <workItem from="1730826827375" duration="3628000" />
+      <workItem from="1730902454070" duration="5536000" />
+      <workItem from="1731079983720" duration="3087000" />
+      <workItem from="1731257742225" duration="46000" />
+      <workItem from="1731341954549" duration="2952000" />
+      <workItem from="1731356222005" duration="623000" />
+      <workItem from="1731729211143" duration="984000" />
+      <workItem from="1732281956617" duration="586000" />
+      <workItem from="1732340256307" duration="4010000" />
+      <workItem from="1732550526222" duration="25000" />
+      <workItem from="1732885489678" duration="5014000" />
+      <workItem from="1732936329730" duration="3114000" />
+      <workItem from="1732939933381" duration="167000" />
+      <workItem from="1732940129125" duration="396000" />
+      <workItem from="1732940544834" duration="951000" />
+      <workItem from="1732941658320" duration="7823000" />
+      <workItem from="1733679079874" duration="2000" />
+      <workItem from="1733936295576" duration="595000" />
+      <workItem from="1734177215941" duration="4054000" />
+      <workItem from="1734351116934" duration="2163000" />
     </task>
     <servers />
   </component>
@@ -234,5 +286,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

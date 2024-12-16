@@ -1,0 +1,47 @@
+@startuml
+class Car {
+    - engine: std::string
+    - wheels: std::vector<std::string>
+    - seats: std::string
+    - airConditioning: std::string
+    + display(): void
+}
+
+abstract class CarBuilder {
+    + buildEngine(): void
+    + buildWheels(): void
+    + buildSeats(): void
+    + buildAirConditioning(): void
+    + getCar(): Car*
+}
+
+class SedanBuilder {
+    - car: Car*
+    + buildEngine(): void
+    + buildWheels(): void
+    + buildSeats(): void
+    + buildAirConditioning(): void
+    + getCar(): Car*
+}
+
+class SUVBuilder {
+    - car: Car*
+    + buildEngine(): void
+    + buildWheels(): void
+    + buildSeats(): void
+    + buildAirConditioning(): void
+    + getCar(): Car*
+}
+
+class Director {
+    - builder: CarBuilder*
+    + setBuilder(builder: CarBuilder*): void
+    + constructCar(): void
+}
+
+CarBuilder <|-- SedanBuilder
+CarBuilder <|-- SUVBuilder
+Director --> CarBuilder
+SedanBuilder *-- Car
+SUVBuilder *-- Car
+@enduml

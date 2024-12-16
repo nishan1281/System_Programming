@@ -1,0 +1,19 @@
+CarBuilder/
+│
+├── Car.h
+├── CarBuilder.h
+├── SportsCarBuilder.h
+├── CarDirector.h
+├── main.cpp
+
+Step 1: Define the Product (Car)
+The Car class is the product being built. It contains various attributes and methods.
+
+Step 2: Define the Builder Interface
+This interface declares methods for creating parts of a product.
+
+Step 3: Implement Concrete Builders
+It implements the builder interface to construct and assemble parts of the product.
+
+Step 4: Define the Director
+This class orchestrates the building process using a builder object.
