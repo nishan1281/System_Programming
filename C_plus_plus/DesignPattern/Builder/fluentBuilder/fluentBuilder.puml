@@ -1,0 +1,30 @@
+@startuml
+
+' Define the Car class
+class Car {
+    - String make
+    - String model
+    - int year
+    - bool hasSunroof
+    - bool hasGPS
+    + void printDetails()
+}
+
+' Define the CarBuilder class
+class CarBuilder {
+    - String make
+    - String model
+    - int year
+    - bool hasSunroof
+    - bool hasGPS
+    + CarBuilder(String make, String model, int year)
+    + CarBuilder addSunroof()
+    + CarBuilder addGPS()
+    + Car build()
+}
+
+' Define the relationships
+CarBuilder "1" --> "1" Car : builds >
+Car "1" *-- "1" CarBuilder : constructed by >
+
+@enduml

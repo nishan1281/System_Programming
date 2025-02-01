@@ -18,9 +18,10 @@ int main()
     std::string word[] = {"hello", "world"};
     std::ostringstream oss;
     oss << "<ol>";
-    for (auto w : word)
-        oss<<"\n <li>" << w << "</li>";
-    oss<<"\n <ol>";
+    for (auto w : word){
+        oss<<"\n <li>" << w << "</li>";}
+
+    oss<<"\n</ol>";
     std::cout << oss.str() <<std::endl;
 
 }

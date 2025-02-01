@@ -171,6 +171,15 @@ add_executable(C_plus_plus
         DesignPattern/Builder/Car/header/Director.h
         DesignPattern/Builder/Car/main.cpp
         DesignPattern/Builder/Car/src/Car.cpp
+        DesignPattern/functionalProgramming/choosingFunction@Runtime/functionalTry.cpp
+        DesignPattern/Builder/fluentBuilder/Engine.h
+        DesignPattern/Builder/fluentBuilder/Wheel.h
+        DesignPattern/Builder/fluentBuilder/Car.h
+        DesignPattern/Builder/fluentBuilder/Builder.h
+        DesignPattern/functionalProgramming/methodChaining/methodChaining.cpp
+        DesignPattern/Builder/fluentBuilder/main.cpp
+        Basics/50_pair/pari.cpp
+        "STL/Template Function/TemplateFunction.cpp"
 )
 
 

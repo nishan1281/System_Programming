@@ -21,48 +21,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="410b3324-646e-4275-91be-78d55c2746b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/49_const/const_1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/9_enum/enum2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/CarBuilderDiagram.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/fileStrucure.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/Car.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/CarBuilder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/Director.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/SUVBuilder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/SedanBuilder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/Car.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/Director.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/SUVBuilder.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/SedanBuilder.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/builder.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/html.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/recursive/recursive.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/recursive/recursive_smart_pointer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/50_pair/pari.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/Builder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/Car.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/Engine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/Wheel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/fluentBuilder.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/functionalProgramming/choosingFunction@Runtime/functionalTry.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/functionalProgramming/methodChaining/methodChaining.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STL/Template Function/TemplateFunction.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/try/try.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/try/try.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fbcf19fc6f397ff23184.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-052395a99505f3e3292d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c1af275f8742d05e044d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-13T15-31-00-0155.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-a8b51ef0842cbe7f356e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e60ebe5105168df5c89c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/SUVBuilder.h" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/header/SUVBuilder.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/Car.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Builder/Car/src/Car.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/Builder/html.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/Builder/html.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7249a5ab7975d00a282d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-30T17-52-29-0737.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_plus_plus-Debug-0796b037555c0f2a19d9.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +56,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -112,7 +103,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;C/C++ File.ofstream.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.C_plus_plus.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.C_plus_plus.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -138,14 +129,19 @@
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\LiskovSusbstitution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\fluentBuilder" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\Car" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\Car\headerFile" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Builder\recursive" />
       <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle\LiskovSusbstitution\Regular" />
-      <recent name="D:\SoftwareDevelopment\System_Programming\C_plus_plus\DesignPattern\Solid_Design_Principle" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.C_plus_plus">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C_plus_plus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_plus_plus" TARGET_NAME="C_plus_plus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_plus_plus" RUN_TARGET_NAME="C_plus_plus">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -261,7 +257,17 @@
       <workItem from="1733679079874" duration="2000" />
       <workItem from="1733936295576" duration="595000" />
       <workItem from="1734177215941" duration="4054000" />
-      <workItem from="1734351116934" duration="2163000" />
+      <workItem from="1734351116934" duration="5367000" />
+      <workItem from="1734443068694" duration="8463000" />
+      <workItem from="1734537569234" duration="2097000" />
+      <workItem from="1735180607231" duration="10550000" />
+      <workItem from="1735301008656" duration="8775000" />
+      <workItem from="1735337552132" duration="5016000" />
+      <workItem from="1735345083189" duration="665000" />
+      <workItem from="1735363697179" duration="7265000" />
+      <workItem from="1737611219183" duration="1004000" />
+      <workItem from="1737733716458" duration="2198000" />
+      <workItem from="1738381532077" duration="679000" />
     </task>
     <servers />
   </component>
@@ -283,6 +289,11 @@
           <url>file://$PROJECT_DIR$/Modern_CPP/section_5/defaultDelete.cpp</url>
           <line>27</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DesignPattern/Builder/fluentBuilder/Car.h</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
